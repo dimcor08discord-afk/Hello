@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Skybox",
+      "replace_ids": [
+        5915779043
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93224413172183
+    }
+]
+}
